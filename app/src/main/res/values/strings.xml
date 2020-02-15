@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cane Control</string>
+    <string name="mandatory">This field is mandatory</string>
+    <string name="maximun_val">The maximun value is 127</string>
+    <string name="sendE">Send Data</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="battery_rate">Battery rate (min)</string>
+    <string name="sample_rate">Sample rate (Hz)</string>
+    <string name="BatteryLevel">Battery Level</string>
+    <string name="debug">Debug</string>
+    <string name="hint_system">System Select</string>
+    <string name="FSM">FSM</string>
+    <string name="NN">NN</string>
+    <string name="hint_freq">Frequency Select</string>
+    <string name="HF">HF</string>
+    <string name="LF">LF</string>
+    <string name="popup_title">Quit nRF UART</string>
+    <string name="popup_message">Do you want to quit this Application?</string>
+    <string name="popup_yes">YES</string>
+    <string name="popup_no">NO</string>
+    <string name="ble_not_supported">Bluetooth Low Energy not supported</string>
+</resources>
